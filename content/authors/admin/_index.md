@@ -60,7 +60,7 @@ education:
 experience:
   - position: Post-doctoral researcher
     company_name: University of Namur
-    company_logo: assets/media/universite.png
+    company_logo:
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
