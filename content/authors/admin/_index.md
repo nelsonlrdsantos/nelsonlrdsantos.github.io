@@ -57,6 +57,7 @@ education:
     institution: FCSH - Nova University
     date_start: 2014
     date_end: 2016
+    
 experience:
   - position: Post-doctoral researcher
     company_name: University of Namur
