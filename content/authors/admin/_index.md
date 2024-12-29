@@ -57,14 +57,15 @@ education:
     institution: FCSH - Nova University
     date_start: 2014
     date_end: 2016
-    
+
 experience:
   - position: Post-doctoral researcher
     company_name: University of Namur
-    company_logo:
+    company_logo: ''
+    company_url: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
