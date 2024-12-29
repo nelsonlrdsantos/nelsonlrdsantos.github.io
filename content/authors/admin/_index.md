@@ -58,7 +58,7 @@ education:
     date_start: 2014
     date_end: 2016
 
-experience:
+work:
   - position: Post-doctoral researcher
     company_name: University of Namur
     company_logo: ''
