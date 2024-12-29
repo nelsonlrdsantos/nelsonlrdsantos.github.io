@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nelson Santos
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nelson
+last_name: Santos
 
 # Status emoji
 status:
@@ -17,27 +17,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Political Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Post-doctoral researcher - University of Namur
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nelson-leonardo.rodrigues@unamur.be'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=8EMTtzIAAAAJ&hl=pt-BR&oi=sra
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/nelsonlrdsantos
+  - icon: brands/x
+    url: https://x.com/Nelsonlrsantos
 
 education:
   - area: PhD Artificial Intelligence
