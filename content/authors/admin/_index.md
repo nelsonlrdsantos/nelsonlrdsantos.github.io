@@ -38,42 +38,29 @@ profiles:
     url: https://x.com/Nelsonlrsantos
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Comparative Politics
+    institution: Institue of Social Sciences, University of Lisbon
+    date_start: 2019-09-01
+    date_end: 2024-06-11
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis - "Navigating the EU Maze: How do Parties Communicate and Contest European Affairs in National Parliaments? The cases of Portugal, Ireland, and Spain".
+      Committee: :  Marina Costa Lobo, Tiago Silva [supervisors]; 
+      Jérémy Dodeigne, Catherine Moury, Varqá Carlos Jalali, Pedro Magalhães 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+      text: 'Download thesis'
+      url: 'https://ulisboa-my.sharepoint.com/:b:/g/personal/nlrsantos_office365_ulisboa_pt/EbEZCHHj_lhMuKH1UVprpYkB3r8eb1_32toJbPfH7wiPtg?e=fFHzit'
+  - area: MSc in Public Policies and Economics 
+    institution: ISCTE - University Institute of Lisbon
+    date_start: 2016
+    date_end: 2018
+  - area: BA in Political Science and International Relations
+    institution: FCSH - Nova University
+    date_start: 2014
+    date_end: 2016
+positions:
+  - position: Post-doctoral researcher
+    company_name: University of Namur
+    company_logo: assets/media/universite.png
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
