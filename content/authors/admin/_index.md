@@ -61,8 +61,9 @@ education:
 work:
   - position: Post-doctoral researcher
     company_name: University of Namur
-    icon: assets/media/icons/custom/universite.svg
-    company_logo: 
+    - icon: brands/github
+      url: https://github.com/nelsonlrdsantos
+    company_logo: ""
     company_url: ''
     date_start: 2021-01-01
     date_end: ''
